@@ -28,7 +28,9 @@ cd paperdev_Phy_SORT-
 
 ```
 cd deep_sort/deep/checkpoint
-# download last_net.pth from [link] to this folder
+# download last_net.pth from https://pan.baidu.com/s/12AaJ0kYbbbdotPD_7Aqahg 
+# and the password：klsf 
+# to this folder
 cd ../../../
 ```
 
