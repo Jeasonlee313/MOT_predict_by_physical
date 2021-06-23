@@ -34,7 +34,7 @@ cd deep_sort/deep/checkpoint
 cd ../../../
 ```
 
-**3. make sure the "data" and "output" folder are exist(optional)**
+**3. make sure the "data" and "output" folder are exist (optional)**
 
 ```
 mkdir data && mkdir output
