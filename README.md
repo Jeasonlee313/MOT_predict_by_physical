@@ -44,15 +44,15 @@ mkdir data && mkdir output
 
 ```
 usage: python app.py [--VIDEO_PATH]
-					 [--config_deepsort]
-					 [--display]
-					 [--frame_interval]
-					 [--display_width]
-					 [--display_height]
-					 [--save_path]
-					 [--cpu]
-					 [--save_name]
-					 [--detect_file]
+		     [--config_deepsort]
+		     [--display]
+		     [--frame_interval]
+		     [--display_width]
+		     [--display_height]
+		     [--save_path]
+		     [--cpu]
+		     [--save_name]
+		     [--detect_file]
 ```
 
 parameters meaning:
