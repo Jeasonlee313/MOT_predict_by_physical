@@ -1,4 +1,4 @@
-# Multiple Object Tracking Based on The Simulation of Physical Locations
+# Multiple Object Tracking based on the Simulation of Physical Locations
 
 This repository hosts our code for our paper Multiple Object Tracking based on the Simulation of Physical Locations. 
 
